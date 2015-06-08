@@ -15,15 +15,15 @@ owner:
   email:          vishanth911@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:http://www.facebook.com/vishanth        
-  github:http://github.com/Vishanth/         
-  stackexchange:http://stackoverflow.com/users/1413614/vizzy  
-  linkedin:http://linkedin.com/in/vishanthbala      
-  instagram:http://instagram.com/vizzy/     
+  facebook:       http://www.facebook.com/vishanth        
+  github:         http://github.com/Vishanth/         
+  stackexchange:  http://stackoverflow.com/users/1413614/vizzy  
+  linkedin:       http://linkedin.com/in/vishanthbala      
+  instagram:      http://instagram.com/vizzy/     
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:+vishanth
+  google_plus:    +vishanth
 
 # Background image to be tiled on all pages
 background: 
